@@ -4,7 +4,7 @@ from math import ceil, floor, inf
 def maxSubArrayDivideAndConquer(nums: list[int]) -> int:
     p = 0
     r = len(nums)
-
+    
     # 0 element
     if p == r:
         return 0
