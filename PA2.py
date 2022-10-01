@@ -1,4 +1,7 @@
-from math import ceil, floor, inf
+#Khoa Luu
+#09/30/22
+
+from math import floor, inf
 
 
 def maxSubArrayDivideAndConquer(nums: list[int]) -> int:
